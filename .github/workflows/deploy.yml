@@ -1,3 +1,4 @@
+# this workflow copy pasted from vite website
 name: Deploy
 
 on:
