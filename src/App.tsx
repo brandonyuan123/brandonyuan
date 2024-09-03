@@ -10,7 +10,7 @@ function App() {
         <a href="mailto:brandonyuan05@gmail.com">Email</a> +&nbsp;
         <a href="https://www.linkedin.com/in/brandon-yuan-2ab599265/">LinkedIn</a> +&nbsp;
         <a href="https://github.com/brandonyuan123">GitHub</a> +&nbsp;
-        <a href="https://drive.google.com/file/d/1Kt20VQepx4auen5TiYsCBjyP_fgOo6ih/view?usp=share_link">Resume</a>
+        <a href="https://drive.google.com/file/d/1XAGEu6Ad1pcav-60xs2HqDjl2zVIW-JE/view?usp=share_link">Resume</a>
       </h2>
 
       <h3>i am...</h3>
