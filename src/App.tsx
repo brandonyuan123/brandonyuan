@@ -7,10 +7,10 @@ function App() {
     <>
       <h1>hi, i'm brandon yuan!</h1>
       <h2>
-        <a href="mailto:brandonyuan05@gmail.com">Email</a> +&nbsp;
-        <a href="https://www.linkedin.com/in/brandon-yuan-2ab599265/">LinkedIn</a> +&nbsp;
-        <a href="https://github.com/brandonyuan123">GitHub</a> +&nbsp;
-        <a href="https://drive.google.com/file/d/1XAGEu6Ad1pcav-60xs2HqDjl2zVIW-JE/view?usp=share_link">Resume</a>
+        <a target="_blank" rel="noopener noreferrer" href="mailto:brandonyuan05@gmail.com">Email</a> +&nbsp;
+        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/brandon-yuan-2ab599265/">LinkedIn</a> +&nbsp;
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/brandonyuan123">GitHub</a> +&nbsp;
+        <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1XAGEu6Ad1pcav-60xs2HqDjl2zVIW-JE/view?usp=share_link">Resume</a>
       </h2>
 
       <h3>i am...</h3>
