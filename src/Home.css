@@ -3,7 +3,7 @@ body {
   justify-content: center;
   display: flex;
   height: 100vh;
-  
+  margin: auto;
 }
 
 a {
@@ -30,3 +30,23 @@ ul, p {
   margin-top: 5px;
   margin-bottom: 5px;
 }
+
+.custom-list {
+  list-style-type: none; /* Remove default bullet points */
+  padding-left: 0;       /* Remove left padding */
+}
+
+.custom-list li {
+  position: relative;
+  padding-left: 2em; /* Space for emoji bullet */
+  margin-bottom: 0.5rem;
+}
+
+.custom-list li::before {
+  content: attr(data-emoji); /* Insert emoji from data attribute */
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1em; /* Adjust emoji size as needed */
+}
+
